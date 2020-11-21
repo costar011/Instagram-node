@@ -20,3 +20,12 @@
 
   background-color: aquamarine;
 }
+
+.box .box__views {
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+.box .box__views .box__title {
+}
